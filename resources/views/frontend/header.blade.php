@@ -166,10 +166,6 @@
         margin: 0px 0px 0px 0px;
     }
 
-    .elementor-821 .elementor-element.elementor-element-972c07c>.elementor-container {
-        max-width: 1170px;
-    }
-
     .elementor-821 .elementor-element.elementor-element-972c07c>.elementor-container>.elementor-column>.elementor-widget-wrap {
         align-content: center;
         align-items: center;

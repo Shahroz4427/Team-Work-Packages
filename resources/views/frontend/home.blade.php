@@ -113,7 +113,7 @@
                 </div>
             </div>
         </section>
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-6e2e4b5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e2e4b5" data-element_type="section"
+        <section  class="elementor-section elementor-top-section elementor-element elementor-element-6e2e4b5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e2e4b5" data-element_type="section"
             data-settings='{"background_background":"classic"}'>
             <div class="elementor-container elementor-column-gap-default">
                 <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-38d7cf3" data-id="38d7cf3" data-element_type="column">
